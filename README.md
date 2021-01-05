@@ -9,3 +9,6 @@ ssh-keygen
 CMD to ls key:
 cat ~/.ssh/id_rsa.pub
 
+# Welcome to Git --- Lynn
+Modified by voltage220.
+
