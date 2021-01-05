@@ -1,4 +1,11 @@
 # PythonRepository
 This is a python repository.
-Mainly for python learning.
-Edit by 244.
+CMD to clone:
+git clone git@github.com:voltage220/PythonLearning.git
+CMD to push:
+git push origin HEAD
+CMD to gen key:
+ssh-keygen
+CMD to ls key:
+cat ~/.ssh/id_rsa.pub
+
